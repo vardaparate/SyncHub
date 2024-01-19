@@ -1,0 +1,72 @@
+.item {
+    display: table;
+    width: 500px;
+    align-items: center;
+    flex: auto;
+    margin: auto;
+}
+.item:hover {
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+.imgdiv {
+    width: 60px;
+    float: left;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+#profile {
+    width : 70px;
+    height : 70px;
+    border-radius: 40px;
+}
+
+.content {
+    width: 100px;
+    float: left;
+    padding: 10px;
+    margin-left: 40px;
+    text-align: left;
+}
+
+#name {
+    font-size: 25px;
+    font-weight: bold;
+    color: beige;
+}
+
+#email {
+    font-size : 25px;
+    color: beige;
+}
+
+.icons {
+    padding : 10px;
+    float: left;
+    width: 100px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+
+.delete {
+    width: 25px;
+    height: 25px;
+    color: rgb(243, 114, 114);
+}
+.delete:hover{
+    cursor: pointer;
+    border-bottom: 2px solid white;
+}
+
+.edit {
+    width: 25px;
+    height: 25px;
+    color : rgb(131, 131, 240);
+    margin-left : 15px;
+}
+.edit:hover{
+    cursor: pointer;
+    border-bottom: 2px solid white;
+}
