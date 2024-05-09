@@ -1,4 +1,5 @@
-# the axios code is in server-api repo
+# Note :-
+the JSON code is in "server-api" reposotiry
 
 # Getting Started with Create React App
 
